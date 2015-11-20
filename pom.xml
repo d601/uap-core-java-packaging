@@ -9,6 +9,7 @@
     <resources>
       <resource>
         <directory>${project.build.directory}/checkout</directory>
+        <targetPath>org/no/org/uaparser</targetPath>
       </resource>
     </resources>
     <plugins>
